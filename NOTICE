@@ -1,0 +1,25 @@
+Open GPX Tracker for Android
+
+Application source: GPL-3.0-or-later. See LICENSE.
+Copyright (C) 2026 Open GPX Tracker Android contributors.
+
+This unofficial Android recreation references iOS Open GPX Tracker:
+https://github.com/merlos/iOS-Open-GPX-Tracker
+Copyright (C) 2014-2023 Juan M. Merlos (@merlos) & Contributors.
+Upstream licence: GNU General Public License, version 3 or (at your option) any later version.
+Reference commit: cd0954ffcd5ae688b76f8b796607c98ea5c6a0eb.
+
+The Android implementation, foreground service, control locking, overlay,
+place-name metadata, permissions flow, GPX import/export and Android
+adaptations were developed or modified in 2026.
+This repository is not an official iOS project release or an endorsement
+by the upstream authors. Original notices and rights remain intact.
+
+This program is distributed WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+
+Third-party dependencies and map data retain their own licences.
+See THIRD_PARTY_NOTICES.md and the upstream licence links listed there.
+Generated APKs, signing keys, real tracks, and local screenshots are not
+part of this source publication.

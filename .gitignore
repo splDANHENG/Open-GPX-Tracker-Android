@@ -1,0 +1,22 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+.DS_Store
+
+# The upstream iOS project is kept locally as a reference checkout.
+ios-reference/
+
+# Local test evidence, tracks, signing keys, and credentials.
+artifacts/
+*.apk
+*.aab
+*.gpx
+*.db
+*.db-shm
+*.db-wal
+*.jks
+*.keystore
+.env
+.env.*
